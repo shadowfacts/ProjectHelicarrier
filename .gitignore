@@ -1,0 +1,11 @@
+client/asm/
+client/coremods/
+client/icon.png
+client/logs/
+client/minetweaker.log
+client/options.txt
+client/resourcepacks/
+client/saves/
+client/screenshots/
+client/texturepacks/
+client/usernamecache.json
